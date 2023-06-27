@@ -1524,6 +1524,10 @@ input:checked + .toggle-bg {
   --tw-bg-opacity: 0.5;
 }
 
+.bg-\[url\(\'https\:\/\/guang-studio\.s3\.us-west-1\.amazonaws\.com\/guang-studio-pics\/Cover\.JPG\'\)\] {
+  background-image: url('https://guang-studio.s3.us-west-1.amazonaws.com/guang-studio-pics/Cover.JPG');
+}
+
 .bg-cover {
   background-size: cover;
 }
